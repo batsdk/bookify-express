@@ -4,7 +4,7 @@ This ReadMe file provides an overview of the project and outlines the tasks to b
 
 ## Project Overview
 
-The project aims to build a book management system with features such as book filtering, author-based book retrieval, user creation, and book liking functionality.
+The project aims to build a book management system with features such as book filtering, author-based book retrieval, user creation, and book-liking functionality.
 
 ## To-Do List
 
@@ -33,7 +33,7 @@ The project aims to build a book management system with features such as book fi
 
 Follow these steps to set up and run the project:
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone https://github.com/batsdk/bookify-express.git`
 2. Install dependencies: `npm install`
 3. Configure the environment variables.
 4. Run the application: `npm run dev`
